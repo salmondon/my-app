@@ -1,0 +1,13 @@
+.container {
+    width: 40%;
+    margin: 20px;
+    padding: 20px;
+    border: solid 1px red;
+    text-align: center;
+}
+
+.Profile {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
